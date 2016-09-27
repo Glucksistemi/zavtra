@@ -1,0 +1,28 @@
+#gamefield {
+	width: 800px;
+	height: 600px;
+	position: absolute;
+	top: 100px;
+	left: 200px;
+	border: solid 1px black;
+}
+#agregato {
+	width: 100px;
+	height: 94px;
+	background-image: url('agregato.png');
+	position: absolute;
+	top: 0px;
+	left: 450px;
+}
+.iceaxe {
+	position: absolute;
+	background-image: url('iceaxe.png');
+	width: 100px;
+	height: 100px;
+	left: 100px;
+	top: 0px;
+	z-index: 100;
+}
+#newgame {
+	margin-left: 100px;
+}
