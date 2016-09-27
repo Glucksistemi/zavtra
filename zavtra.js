@@ -82,7 +82,7 @@ var score
 
 function gfclick(event) {
 	clicked = {
-		x: event.pageX - 200,
+		x: event.pageX - 50,
 		y: event.pageY - 100
 	}
 }
